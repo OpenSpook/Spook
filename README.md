@@ -1,2 +1,3 @@
 # Spook
-No! .... y-you can't!
+Nothing. It's nothing. Sorry?
+
