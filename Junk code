@@ -1,2 +1,3 @@
-irb(main):001: 0> "Hello World"
-=> "Hello World"
+irb(main):002:0> puts "Hello World"
+Hello World
+=> nil
