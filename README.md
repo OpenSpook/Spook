@@ -1,3 +1,3 @@
 # Spook
-Nothing. It's nothing. Sorry?
+Just some junk code. Your welcome to use it!
 
